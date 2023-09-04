@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/avhan-technologies-task/static/css/main.31d6cfe0.css",
+    "main.js": "/avhan-technologies-task/static/js/main.ca91bd07.js",
+    "index.html": "/avhan-technologies-task/index.html",
+    "main.ca91bd07.js.map": "/avhan-technologies-task/static/js/main.ca91bd07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ca91bd07.js"
+  ]
+}
